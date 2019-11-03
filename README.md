@@ -1,9 +1,9 @@
 # Getting-and-Cleaning-Data-Course-Project
 The script contains 6 parts.
 1. Preprocess.
-Create a folder to store the downloaded data.
-Unzip the file.
-Open the six files named "X_test", "y_test", "subject_test", "X_train", "y_train", "subject_train" and store them to six variables.
+Create a folder to store the downloaded data.  
+Unzip the file.  
+Open the six files named "X_test", "y_test", "subject_test", "X_train", "y_train", "subject_train" and store them to six variables.  
 
 2. Merges the training and the test sets to create one data set.
 Use cbind(), rbind() to merge the data.
