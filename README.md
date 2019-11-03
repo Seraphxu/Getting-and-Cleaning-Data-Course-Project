@@ -1,6 +1,6 @@
 # Getting-and-Cleaning-Data-Course-Project
 The script contains 6 parts.
-1. Preprocess.
+1. Preprocess.  
 a. Create a folder to store the downloaded data.  
 b. Unzip the file.  
 c. Open the six files named "X_test", "y_test", "subject_test", "X_train", "y_train", "subject_train" and store them to six variables.  
